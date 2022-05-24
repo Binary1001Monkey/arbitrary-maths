@@ -1,2 +1,2 @@
-# arbitrary-maths
-Just putting up stuff I've learnt or come across. Not particularly useful but secretly hoping it is ;D
+# maths init
+Just putting up stuff I've learnt and/or come across. Not particularly useful but secretly hoping it is.
