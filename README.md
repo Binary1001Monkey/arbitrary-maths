@@ -1,2 +1,2 @@
 # math notes
-Just putting up stuff I've learnt and/or come across. Not particularly useful but secretly hoping it is.
+Just putting up stuff I've learnt and/or come across.
